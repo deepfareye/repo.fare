@@ -1,2 +1,0 @@
-# repo.fare
-personal
